@@ -14,6 +14,6 @@ This is a simple and responsive calculator built using **HTML**, **CSS**, and **
 - JavaScript
 
 ## 🔗 Live Demo
-[Click here to open the Calculator](https://piyush2707.github.io/calculator-basic/)
+[Click here to open the Calculator](https://piyush2707.github.io/calculator--animated-/)
 
 ## 📂 Folder Structure.
