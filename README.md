@@ -1,18 +1,19 @@
-# 🌌 SolarOrbit – Animated Solar System in React
+# Basic Web Calculator 🔢
 
-This React app simulates the orbit of planets around the sun using smooth CSS animations. Perfect for learning animations, transforms, and React fundamentals.
+This is a simple and responsive calculator built using **HTML**, **CSS**, and **JavaScript**. It allows you to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
-## 🔧 Features
-- Circular orbit animation for each planet
-- Info popup on hover
-- Responsive design
-- Neat, space-themed visuals
+## 🚀 Features
+- Clean UI with modern look
+- Supports +, -, ×, ÷ operations
+- Responsive layout for mobile & desktop
+- Instant result calculation
 
-## 🚀 How to Run
-```bash
-npm install
-npm start
-```
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
 
 ## 🔗 Live Demo
-Host it easily using GitHub Pages or Netlify.
+[Click here to open the Calculator](https://piyush2707.github.io/calculator-basic/)
+
+## 📂 Folder Structure.
